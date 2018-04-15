@@ -2,7 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/lsst40615/vin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-![GitHub Logo](https://github.com/lsst40615/vin/blob/master/1.PNG width="400" height="790")
+![GitHub Logo](https://github.com/lsst40615/vin/blob/master/1.PNG )
+Format: ![250x250](url)
+
 
 
 
